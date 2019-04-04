@@ -2,6 +2,5 @@
  ---
 
 @import "{{ site.theme }}";
-#footer_wrap {
-    background: #00073c;
-}
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{font-family: 'Roboto', sans-serif;}
