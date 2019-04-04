@@ -1,12 +1,4 @@
----
+ ---
  ---
 
-@import "slate";
-
-H2 {
-color:red;
-}
-
-#footer_wrap {
-    background: #545453;
-}
+@import "{{ site.theme }}";
